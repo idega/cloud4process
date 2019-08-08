@@ -335,6 +335,13 @@
 			<groupId>com.idega.block.private</groupId>
 			<artifactId>com.idega.cloud.process</artifactId>
 		</dependency>
+		
+		<!-- 3rd parties -->
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.9</version>
+		</dependency>
 	</dependencies>
 
 	<distributionManagement>
